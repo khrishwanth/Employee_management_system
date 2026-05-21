@@ -57,18 +57,6 @@ Employee_management_system/
 └── ...
 ```
 
-## 💡 Usage
-
-[Add specific usage instructions for your application here]
-
-## 📝 License
-
-[Specify your license here]
-
-## 👤 Author
-
-**khrishwanth**
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
